@@ -18,11 +18,9 @@
 - **پایگاه‌داده اصلی:** PostgreSQL
 - **کش:** Redis
 - **پیام‌رسانی:** RabbitMQ
-- **جستجو:** Elasticsearch
 
 ### مانیتورینگ
 - **لاگینگ:** Serilog
-- **مانیتورینگ:** Prometheus + Grafana
 - **Health Checks:** ASP.NET Core Health Checks
 
 ---
@@ -60,7 +58,6 @@
 16. **گزارش‌گیری** در هر ماژول
 17. **Dashboard** قابل سفارشی‌سازی
 18. **Data Export** (Excel, PDF, CSV)
-19. **Real-time Analytics**
 
 ### مانیتورینگ و کنترل
 20. **ردیابی فعالیت‌های کاربران** (Audit Trail)
@@ -85,13 +82,6 @@
 ---
 
 ## 💻 تجربه کاربری و رابط
-
-### رابط کاربری
-39. **Progressive Web App (PWA)**
-40. **Responsive Design**
-41. **Dark/Light Mode**
-42. **Advanced Search** و filtering
-43. **Real-time Notifications** با SignalR
 
 ### مدیریت کاربری
 44. **ویرایش پروفایل**
@@ -118,11 +108,6 @@
 
 ## ⚙️ مدیریت سیستم و عملیات
 
-### Rule Engine و Workflow
-55. **Rule Engine** برای قوانین مدیریتی
-56. **Workflow Management**
-57. **Business Process Automation**
-
 ### مدیریت محتوا
 58. **تمپلیت ایمیل‌ها**
 59. **مدیریت شکایات**
@@ -133,19 +118,6 @@
 62. **GDPR Compliance**
 63. **Data Retention Policies**
 64. **Audit Trail** کامل
-
----
-
-## 🔄 پشتیبان‌گیری و بازیابی
-
-### استراتژی Backup
-65. **پشتیبان‌گیری خودکار**
-66. **Point-in-time Recovery**
-67. **Configuration Backup**
-
-### Disaster Recovery
-68. **High Availability** setup
-69. **Failover** mechanisms
 
 ---
 
@@ -198,7 +170,7 @@
 - **Async/Await** pattern
 - **Memory Management** بهینه
 - **Database Query Optimization**
-- ** SystemCashing**
+- **SystemCashing**
 
 ---
 

@@ -311,7 +311,7 @@ This is a **private learning repository** for advanced .NET development and ente
 
 <div align="center">
 
-**Made with ❤️ by [Your Company Name]**
+**Made with ❤️ by KambizShahriarynasab**
 
 [⭐ Star this repo](https://github.com/yourcompany/crm-enterprise-platform) • [🐛 Report Bug](https://github.com/yourcompany/crm-enterprise-platform/issues) • [💡 Request Feature](https://github.com/yourcompany/crm-enterprise-platform/issues)
 
@@ -340,7 +340,7 @@ This is a **private learning repository** for advanced .NET development and ente
 ```
 Proprietary License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 Kambiz shahriarynasab
 
 All rights reserved. This software and associated documentation files (the 
 "Software") are the exclusive property of [Your Name]. No permission is 
